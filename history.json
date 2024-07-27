@@ -1,0 +1,218 @@
+[
+  {
+    "name": "branch1",
+    "commit": {
+      "sha": "13e0450d00988e7e5695273e9409586b74137a46",
+      "url": "https://api.github.com/repos/zakkii-k/history_sample/commits/13e0450d00988e7e5695273e9409586b74137a46"
+    },
+    "protected": false,
+    "protection": {
+      "enabled": false,
+      "required_status_checks": {
+        "enforcement_level": "off",
+        "contexts": [],
+        "checks": []
+      }
+    },
+    "protection_url": "https://api.github.com/repos/zakkii-k/history_sample/branches/branch1/protection",
+    "date": ""
+  },
+  {
+    "name": "branch2",
+    "commit": {
+      "sha": "f916b0d9050171d635ec74abb3965043864955ce",
+      "url": "https://api.github.com/repos/zakkii-k/history_sample/commits/f916b0d9050171d635ec74abb3965043864955ce"
+    },
+    "protected": false,
+    "protection": {
+      "enabled": false,
+      "required_status_checks": {
+        "enforcement_level": "off",
+        "contexts": [],
+        "checks": []
+      }
+    },
+    "protection_url": "https://api.github.com/repos/zakkii-k/history_sample/branches/branch2/protection",
+    "date": ""
+  },
+  {
+    "name": "main",
+    "commit": {
+      "sha": "3cfce8d7d3b2adb52596ebe7ae133ab576041f2d",
+      "url": "https://api.github.com/repos/zakkii-k/history_sample/commits/3cfce8d7d3b2adb52596ebe7ae133ab576041f2d"
+    },
+    "protected": false,
+    "protection": {
+      "enabled": false,
+      "required_status_checks": {
+        "enforcement_level": "off",
+        "contexts": [],
+        "checks": []
+      }
+    },
+    "protection_url": "https://api.github.com/repos/zakkii-k/history_sample/branches/main/protection",
+    "date": ""
+  },
+  {
+    "type": "commit",
+    "sha": "c4e07c2c1cfffc2966e9c9b342d9bea52b401b93",
+    "author": "zakkii-k",
+    "date": "2024-07-21T12:21:56Z",
+    "message": "first commit",
+    "files": [
+      {
+        "sha": "7c08bf3c7b772f588888bf8d21907b845c46e9ed",
+        "filename": "README.md",
+        "status": "added",
+        "additions": 1,
+        "deletions": 0,
+        "changes": 1,
+        "blob_url": "https://github.com/zakkii-k/history_sample/blob/c4e07c2c1cfffc2966e9c9b342d9bea52b401b93/README.md",
+        "raw_url": "https://github.com/zakkii-k/history_sample/raw/c4e07c2c1cfffc2966e9c9b342d9bea52b401b93/README.md",
+        "contents_url": "https://api.github.com/repos/zakkii-k/history_sample/contents/README.md?ref=c4e07c2c1cfffc2966e9c9b342d9bea52b401b93",
+        "patch": "@@ -0,0 +1 @@\n+# history_sample"
+      }
+    ]
+  },
+  {
+    "type": "commit",
+    "sha": "949990bceba13575a3780955bcd061a19e67c5d3",
+    "author": "zakkii-k",
+    "date": "2024-07-21T12:22:52Z",
+    "message": "new file1",
+    "files": [
+      {
+        "sha": "d1ddf273d94be044b05b54c8d39d9195832182cb",
+        "filename": "file1.txt",
+        "status": "added",
+        "additions": 1,
+        "deletions": 0,
+        "changes": 1,
+        "blob_url": "https://github.com/zakkii-k/history_sample/blob/949990bceba13575a3780955bcd061a19e67c5d3/file1.txt",
+        "raw_url": "https://github.com/zakkii-k/history_sample/raw/949990bceba13575a3780955bcd061a19e67c5d3/file1.txt",
+        "contents_url": "https://api.github.com/repos/zakkii-k/history_sample/contents/file1.txt?ref=949990bceba13575a3780955bcd061a19e67c5d3",
+        "patch": "@@ -0,0 +1 @@\n+new file added"
+      }
+    ]
+  },
+  {
+    "type": "commit",
+    "sha": "13e0450d00988e7e5695273e9409586b74137a46",
+    "author": "zakkii-k",
+    "date": "2024-07-21T12:23:31Z",
+    "message": "new file2",
+    "files": [
+      {
+        "sha": "884c6eb902912c1932b2d234c08442a1ecfb44e5",
+        "filename": "file2.txt",
+        "status": "added",
+        "additions": 1,
+        "deletions": 0,
+        "changes": 1,
+        "blob_url": "https://github.com/zakkii-k/history_sample/blob/13e0450d00988e7e5695273e9409586b74137a46/file2.txt",
+        "raw_url": "https://github.com/zakkii-k/history_sample/raw/13e0450d00988e7e5695273e9409586b74137a46/file2.txt",
+        "contents_url": "https://api.github.com/repos/zakkii-k/history_sample/contents/file2.txt?ref=13e0450d00988e7e5695273e9409586b74137a46",
+        "patch": "@@ -0,0 +1 @@\n+new file2 added"
+      }
+    ]
+  },
+  {
+    "type": "commit",
+    "sha": "f916b0d9050171d635ec74abb3965043864955ce",
+    "author": "zakkii-k",
+    "date": "2024-07-21T12:25:23Z",
+    "message": "create 2 files and add one line",
+    "files": [
+      {
+        "sha": "884f8b911e8a3980b416c93b9406c0e872a569b6",
+        "filename": "file3.txt",
+        "status": "added",
+        "additions": 3,
+        "deletions": 0,
+        "changes": 3,
+        "blob_url": "https://github.com/zakkii-k/history_sample/blob/f916b0d9050171d635ec74abb3965043864955ce/file3.txt",
+        "raw_url": "https://github.com/zakkii-k/history_sample/raw/f916b0d9050171d635ec74abb3965043864955ce/file3.txt",
+        "contents_url": "https://api.github.com/repos/zakkii-k/history_sample/contents/file3.txt?ref=f916b0d9050171d635ec74abb3965043864955ce",
+        "patch": "@@ -0,0 +1,3 @@\n+new file3 in branch2\n+add new line to file3\n+"
+      },
+      {
+        "sha": "19c4ba9d173217fdc967e4eb01bbf0dbcc3c0197",
+        "filename": "file4.txt",
+        "status": "added",
+        "additions": 1,
+        "deletions": 0,
+        "changes": 1,
+        "blob_url": "https://github.com/zakkii-k/history_sample/blob/f916b0d9050171d635ec74abb3965043864955ce/file4.txt",
+        "raw_url": "https://github.com/zakkii-k/history_sample/raw/f916b0d9050171d635ec74abb3965043864955ce/file4.txt",
+        "contents_url": "https://api.github.com/repos/zakkii-k/history_sample/contents/file4.txt?ref=f916b0d9050171d635ec74abb3965043864955ce",
+        "patch": "@@ -0,0 +1 @@\n+new file4 in branch2"
+      }
+    ]
+  },
+  {
+    "type": "commit",
+    "sha": "9969d3c81fd2c605af39242fe44c173efca4b1bd",
+    "author": "zakkii-k",
+    "date": "2024-07-21T12:25:44Z",
+    "message": "Merge pull request #1 from zakkii-k/branch1\n\nnew file1",
+    "files": [
+      {
+        "sha": "d1ddf273d94be044b05b54c8d39d9195832182cb",
+        "filename": "file1.txt",
+        "status": "added",
+        "additions": 1,
+        "deletions": 0,
+        "changes": 1,
+        "blob_url": "https://github.com/zakkii-k/history_sample/blob/9969d3c81fd2c605af39242fe44c173efca4b1bd/file1.txt",
+        "raw_url": "https://github.com/zakkii-k/history_sample/raw/9969d3c81fd2c605af39242fe44c173efca4b1bd/file1.txt",
+        "contents_url": "https://api.github.com/repos/zakkii-k/history_sample/contents/file1.txt?ref=9969d3c81fd2c605af39242fe44c173efca4b1bd",
+        "patch": "@@ -0,0 +1 @@\n+new file added"
+      },
+      {
+        "sha": "884c6eb902912c1932b2d234c08442a1ecfb44e5",
+        "filename": "file2.txt",
+        "status": "added",
+        "additions": 1,
+        "deletions": 0,
+        "changes": 1,
+        "blob_url": "https://github.com/zakkii-k/history_sample/blob/9969d3c81fd2c605af39242fe44c173efca4b1bd/file2.txt",
+        "raw_url": "https://github.com/zakkii-k/history_sample/raw/9969d3c81fd2c605af39242fe44c173efca4b1bd/file2.txt",
+        "contents_url": "https://api.github.com/repos/zakkii-k/history_sample/contents/file2.txt?ref=9969d3c81fd2c605af39242fe44c173efca4b1bd",
+        "patch": "@@ -0,0 +1 @@\n+new file2 added"
+      }
+    ]
+  },
+  {
+    "type": "commit",
+    "sha": "3cfce8d7d3b2adb52596ebe7ae133ab576041f2d",
+    "author": "zakkii-k",
+    "date": "2024-07-21T12:26:11Z",
+    "message": "Merge pull request #2 from zakkii-k/branch2\n\ncreate 2 files and add one line",
+    "files": [
+      {
+        "sha": "884f8b911e8a3980b416c93b9406c0e872a569b6",
+        "filename": "file3.txt",
+        "status": "added",
+        "additions": 3,
+        "deletions": 0,
+        "changes": 3,
+        "blob_url": "https://github.com/zakkii-k/history_sample/blob/3cfce8d7d3b2adb52596ebe7ae133ab576041f2d/file3.txt",
+        "raw_url": "https://github.com/zakkii-k/history_sample/raw/3cfce8d7d3b2adb52596ebe7ae133ab576041f2d/file3.txt",
+        "contents_url": "https://api.github.com/repos/zakkii-k/history_sample/contents/file3.txt?ref=3cfce8d7d3b2adb52596ebe7ae133ab576041f2d",
+        "patch": "@@ -0,0 +1,3 @@\n+new file3 in branch2\n+add new line to file3\n+"
+      },
+      {
+        "sha": "19c4ba9d173217fdc967e4eb01bbf0dbcc3c0197",
+        "filename": "file4.txt",
+        "status": "added",
+        "additions": 1,
+        "deletions": 0,
+        "changes": 1,
+        "blob_url": "https://github.com/zakkii-k/history_sample/blob/3cfce8d7d3b2adb52596ebe7ae133ab576041f2d/file4.txt",
+        "raw_url": "https://github.com/zakkii-k/history_sample/raw/3cfce8d7d3b2adb52596ebe7ae133ab576041f2d/file4.txt",
+        "contents_url": "https://api.github.com/repos/zakkii-k/history_sample/contents/file4.txt?ref=3cfce8d7d3b2adb52596ebe7ae133ab576041f2d",
+        "patch": "@@ -0,0 +1 @@\n+new file4 in branch2"
+      }
+    ]
+  }
+]
