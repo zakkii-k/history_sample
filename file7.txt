@@ -1,2 +1,3 @@
 branch7 text
  this is test of pull command
+after pull operation
